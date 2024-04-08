@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
     title: 'Contact Us',
     description: 'Contact us for any queries or feedback.',
     keywords: ['Contact Us', 'Page'],
